@@ -1,0 +1,21 @@
+#country_info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+#search_inpt {
+    height: 40px;
+    width: 250px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 0px 0px 0px 15px;
+}
+button {
+    background: green;
+    color: #fff;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    width: 80px;
+    cursor: pointer;
+}
